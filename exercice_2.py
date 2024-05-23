@@ -1,7 +1,7 @@
 
-nbre1 = input("Bonjour \nVeuillez entrer le premier nombre: ")
-nbre2 = input("entrer le second: ")
-nbre1 = int(a)
-nbre2b = int(b)
-somme = nbre1 + nbre2
+premier_nombre = input("Bonjour \nVeuillez entrer le premier nombre: ")
+second_nombre = input("entrer le second: ")
+premier_nombre = int(premier_nombre)
+second_nombre = int(second_nombre)
+somme = premier_nombre + second_nombre
 print("la somme est: ", somme)
