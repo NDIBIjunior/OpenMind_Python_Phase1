@@ -1,3 +1,2 @@
-
-for entier in range(101):
+for entier in range(100):
     print(entier)
