@@ -1,4 +1,4 @@
-nombre = float(input("Entrer un nombre: "))
+nombre = int(input("Entrer un nombre entier: "))
 if nombre % 2 == 0:
     print("le nombre", nombre," est pair !!!")
 else:
